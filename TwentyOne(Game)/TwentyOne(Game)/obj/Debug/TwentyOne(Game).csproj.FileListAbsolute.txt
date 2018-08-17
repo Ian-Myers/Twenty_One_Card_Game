@@ -1,0 +1,10 @@
+C:\Users\Kimberlee\Desktop\C#_Projects\TwentyOne(Game)\TwentyOne(Game)\bin\Debug\TwentyOne(Game).exe.config
+C:\Users\Kimberlee\Desktop\C#_Projects\TwentyOne(Game)\TwentyOne(Game)\bin\Debug\TwentyOne(Game).exe
+C:\Users\Kimberlee\Desktop\C#_Projects\TwentyOne(Game)\TwentyOne(Game)\bin\Debug\TwentyOne(Game).pdb
+C:\Users\Kimberlee\Desktop\C#_Projects\TwentyOne(Game)\TwentyOne(Game)\obj\Debug\TwentyOne(Game).csprojAssemblyReference.cache
+C:\Users\Kimberlee\Desktop\C#_Projects\TwentyOne(Game)\TwentyOne(Game)\obj\Debug\TwentyOne(Game).csproj.CoreCompileInputs.cache
+C:\Users\Kimberlee\Desktop\C#_Projects\TwentyOne(Game)\TwentyOne(Game)\obj\Debug\TwentyOne(Game).exe
+C:\Users\Kimberlee\Desktop\C#_Projects\TwentyOne(Game)\TwentyOne(Game)\obj\Debug\TwentyOne(Game).pdb
+C:\Users\Kimberlee\Desktop\C#_Projects\TwentyOne(Game)\TwentyOne(Game)\bin\Debug\Casino.dll
+C:\Users\Kimberlee\Desktop\C#_Projects\TwentyOne(Game)\TwentyOne(Game)\bin\Debug\Casino.pdb
+C:\Users\Kimberlee\Desktop\C#_Projects\TwentyOne(Game)\TwentyOne(Game)\obj\Debug\TwentyOne(Game).csproj.CopyComplete
